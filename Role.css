@@ -1,0 +1,39 @@
+#heading{
+    height: 130px;
+    font-size: 90px;
+    background-color: #46f198;
+    border-style: solid;
+    border-color: rgb(5, 5, 5);
+    padding-left: 60px;
+    padding-top: 30px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+#x1{
+    padding-left: 200px;
+    padding-bottom: 50px;
+    margin-right: 250px;
+}
+#x3{
+    padding-right: 200px;
+    margin-left: 220px;
+}
+
+button{
+    height: 80px;
+    width: 200px;
+    font-size:32px;
+    background-color: #49ed88;
+}
+#a1{
+    padding-left: 250px;
+    margin-right: 353px;
+}
+#a3{
+    margin-left: 322px;
+}
